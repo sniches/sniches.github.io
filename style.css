@@ -1,0 +1,12 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	border: none;
+}
+
+.frame_pages{
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    height: 100vh;
+}
